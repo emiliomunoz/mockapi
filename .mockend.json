@@ -1,0 +1,144 @@
+{
+    "Car":
+    {
+        "_":
+        {
+            "data":
+            [
+                {
+                    "maker": "Opel",
+                    "model": "Corsa",
+                    "version": "Edition 1.2 MT5",
+                    "full_name": "Opel Corsa Edition 1.2 MT5",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_2c2b81ed-0e8a-44d7-a4a6-e65497959162.png",
+                    "price": 260000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Manual",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "MG",
+                    "model": "ZS",
+                    "version": "1.5 MT STD",
+                    "full_name": "MG ZS 1.5 MT STD",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_3a386c32-3d20-4463-84aa-c5a05998e095.png",
+                    "price": 280000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Manual",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "MG",
+                    "model": "ZS",
+                    "version": "1.5 AT STD",
+                    "full_name": "MG ZS 1.5 AT STD",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_3a386c32-3d20-4463-84aa-c5a05998e095.png",
+                    "price": 298000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Automático",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "Volkswagen",
+                    "model": "Nuevo T-cross",
+                    "version": "1.6 MT Comfortline 2021",
+                    "full_name": "Volkswagen Nuevo T-cross 1.6 MT Comfortline 2021",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_cb818537-1a0a-4c86-9edb-3cf6bfec3670.png",
+                    "price": 300000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Manual",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "Opel",
+                    "model": "Corsa",
+                    "version": "Edition 1.5 MT6",
+                    "full_name": "Opel Corsa Edition 1.5 MT6",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_2c2b81ed-0e8a-44d7-a4a6-e65497959162.png",
+                    "price": 311000,
+                    "year": 2021,
+                    "gasType": "Diesel",
+                    "transmission": "Manual",
+                    "operation": "eco"
+                },
+                {
+                    "maker": "MG",
+                    "model": "ZS",
+                    "version": "1.5 AT COM",
+                    "full_name": "MG ZS 1.5 AT COM",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_3a386c32-3d20-4463-84aa-c5a05998e095.png",
+                    "price": 324000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Automático",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "Volkswagen",
+                    "model": "Nuevo T-cross",
+                    "version": "1.0 TSI AT Comfortline 2021",
+                    "full_name": "Volkswagen Nuevo T-cross 1.0 TSI AT Comfortline",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_cb818537-1a0a-4c86-9edb-3cf6bfec3670.png",
+                    "price": 335000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Automático",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "Opel",
+                    "model": "Nuevo Crossland",
+                    "version": "EDITION 1.2T MT6",
+                    "full_name": "Opel Nuevo Crossland EDITION 1.2T MT6",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_fa2b5ee3-4f9c-4154-be51-0e1b481ea5e9.png",
+                    "price": 358000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Manual",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "Opel",
+                    "model": "Nuevo Crossland",
+                    "version": "EDITION 1.2T AT6",
+                    "full_name": "Opel Nuevo Crossland EDITION 1.2T AT6",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_fa2b5ee3-4f9c-4154-be51-0e1b481ea5e9.png",
+                    "price": 362000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Automático",
+                    "operation": "regular"
+                },
+                {
+                    "maker": "Opel",
+                    "model": "Grandland",
+                    "version": "X DYNAMIC 1.2 MT",
+                    "full_name": "Opel Grandland X DYNAMIC 1.2 MT 2021",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_3626d0a9-c0e4-4439-9384-3c32e2d8c93f.jpg",
+                    "price": 366000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Manual",
+                    "operation": "usado"
+                },
+                {
+                    "maker": "Opel",
+                    "model": "Nuevo Crossland",
+                    "version": "EDITION 1.5T AT6",
+                    "full_name": "Opel Nuevo Crossland EDITION 1.5T AT6",
+                    "image": "https://storage.googleapis.com/flipcar-images-production/smartycar_production_v2/smartycar_production_v2_fa2b5ee3-4f9c-4154-be51-0e1b481ea5e9.png",
+                    "price": 369000,
+                    "year": 2021,
+                    "gasType": "Bencina",
+                    "transmission": "Automático",
+                    "operation": "black"
+                },
+
+            ]
+        }
+    }
+}
